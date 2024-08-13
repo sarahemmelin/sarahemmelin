@@ -1,9 +1,7 @@
-## This is a wave 👋
+# About me
 
-<!--
-**sarahemmelin/sarahemmelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-Student @ UiA (University in Agder (Norway)) </br>
-I'm an illustrator, trust me. </br>
-
+**Student** @ UiA (University in Agder (Norway)) </br>
+I'm an illustrator, trust me. 😎 </br></br>
+Visit my </br>
+[Homepage](https://www.sarahemmelin.no/)</br>
+[Instagram](https://www.instagram.com/sarahemmelin/)
